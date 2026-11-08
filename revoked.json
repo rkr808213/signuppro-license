@@ -1,5 +1,7 @@
 {
   "app": "Sign Up Pro",
-  "updated": 1794111065975,
-  "revokedTokens": []
+  "updated": 1794114263148,
+  "revokedTokens": [
+    "9eb29c214023d7d183e4501703915b86a5fe3f100e4f7cdcb0fc8ca06b5294c0"
+  ]
 }
